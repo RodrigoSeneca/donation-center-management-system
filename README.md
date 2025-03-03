@@ -35,8 +35,7 @@ donation-center/
 │   └── db_diagram.png          # Entity relationship diagram
 │
 ├── python/
-│   ├── excel_to_json.py        # Data conversion script with privacy protection
-│   └── data_processor.py       # Data cleaning and normalization utilities
+│   ├── csv_to_json.py        # Data conversion script with privacy
 │
 ├── dashboards/
 │   ├── dashboard_embed.html    # Embedded Looker Studio dashboard
