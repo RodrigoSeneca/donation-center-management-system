@@ -39,7 +39,9 @@ donation-center/
 │
 ├── dashboards/
 │   ├── dashboard_embed.html    # Embedded Looker Studio dashboard
-│   └── dashboard_screenshots/  # Static images of key visualizations
+│   └── costs.png  # Static images of key visualizations
+│   └── check_outs.png  # Static images of key visualizations
+│   └── inventory.png  # Static images of key visualizations
 │
 └── excel/
     └── original_system/        # Templates of the Excel-based system
