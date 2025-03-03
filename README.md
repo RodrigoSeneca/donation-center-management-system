@@ -43,8 +43,6 @@ donation-center/
 │   └── check_outs.png  # Static images of key visualizations
 │   └── inventory.png  # Static images of key visualizations
 │
-└── excel/
-    └── original_system/        # Templates of the Excel-based system
 ```
 
 ---
