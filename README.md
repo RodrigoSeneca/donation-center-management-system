@@ -98,6 +98,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-Developed by [Rodrigo Murilo Barros](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/rodrigombarros25) • [Email](mailto:rodrimurilo@outlook.com)
+Developed by [Rodrigo Murilo Barros](https://github.com/RodrigoSeneca) • [LinkedIn](https://www.linkedin.com/in/rodrigombarros25) • [Email](mailto:rodrimurilo@outlook.com)
 
 </div>
