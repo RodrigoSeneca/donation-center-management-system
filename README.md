@@ -2,7 +2,7 @@
 
 A comprehensive management solution for a university clothing donation program serving over 3,000 students. This project includes data collection, processing, analysis, and visualization components.
 
-[![Dashboard Preview](./assets/dashboard-preview.png)](https://my-portfolio-website.com/projects/donation-center)
+<img width="797" alt="Screenshot 2025-03-02 at 10 44 24 PM" src="https://github.com/user-attachments/assets/cd4b4920-a8f8-4519-ae74-6d535b2e1b6d" />
 
 ---
 
