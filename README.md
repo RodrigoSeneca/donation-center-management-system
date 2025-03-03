@@ -92,9 +92,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Links
 
-- [Full Project Portfolio](https://my-portfolio-website.com/projects/donation-center)
-- [Interactive Dashboard Demo](https://my-portfolio-website.com/projects/donation-center/dashboard)
-- [Technical Documentation](https://my-portfolio-website.com/projects/donation-center/docs)
+- [Full Project Portfolio](https://sites.google.com/view/rbarros/projects/clothing-donation-store-dashboard?authuser=0)
+- [Interactive Dashboard Demo](https://lookerstudio.google.com/s/iH_TfyguhLM)
 
 ---
 
